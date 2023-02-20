@@ -4,3 +4,6 @@ This app allows you to create an event to meet new friends with similar interest
 ## Created with Mern
 
 MongoDB, Express, React, NodeJs, Redux
+
+###
+https://meet-app-mern.onrender.com/
